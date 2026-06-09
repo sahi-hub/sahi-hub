@@ -10,7 +10,7 @@
 
 ### Systems Architect
 
-*Engineering sovereign intelligence. On-device. Uncensored. Persistent.*
+<i>Architecting systems. Across disciplines. From first principles.</i>
 
 <br>
 

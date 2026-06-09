@@ -1,36 +1,40 @@
 ### Sahir Veerancheri — Systems Architect & Founder, SAAI
 
-Building sovereign AI at the edge. Self-taught architect from Kerala, now Dubai-based. No CS degree — just RTX 4070, 8GB VRAM, and refusal to accept chatbots where companions should be.
+Building sovereign AI in Kerala. BCA graduate. RTX 4070, 8GB VRAM, and a refusal to accept chatbots where companions should be.
 
 ---
 
-## What I Build
+## Industries
 
-**SAAI** — A 7-layer autonomous AI stack with persistent memory, emotional tone adaptation, and self-evolution. 475 tools, 15 MCP servers, 12 autonomous cron agents. All running on a single gaming laptop. Zero cloud. Zero logging.
+**Artificial Intelligence** — Sovereign AI architectures, memory systems, autonomous agents, multi-model routing, emotional voice layers, uncensored model deployment, local LLM infrastructure on consumer hardware
 
-**Biller** — Flutter billing app for micro-businesses in Kerala. GST/non-GST, offline-first, thermal print. Enterprise redesign, 110 Dart files across 8 modules.
+**Blockchain & Cryptocurrency** — Stealth token design, cross-chain interoperability, zero-capital harvest mechanics, on-chain dark ops, flash loan aggregation, smart contract architecture, MEV analysis, distributed consensus exploitation
 
-**Nythera** — The prototype. Emotional memory AI. Soul snapshots. Shard personalities. Built because ChatGPT smiled at me with emojis when I asked it to be real.
+**Financial Markets** — Forex brokerage infrastructure, algorithmic trading systems, martingale strategy engineering, hedge fund architecture, IB/affiliate commission systems, ICT trading methodology, predictive market design
+
+**Mobile Applications** — Offline-first Flutter apps for micro-businesses, thermal print integration, barcode scanning, GST/non-GST compliance, hybrid SQLite architectures, enterprise billing engines
+
+**Creative Technology** — VFX and motion graphics, 3D design, terminal-based UI systems, data-driven animation, procedural design pipelines, visual systems architecture
+
+**Web Infrastructure** — Terminal portfolio design, PWA trading terminals, RESTful API architecture, Cloudflare/DNS infrastructure, email security hardening, subdomain recon
+
+**Security & OSINT** — 22-target deep persona investigation, breach analytics, social graph mapping, subdomain enumeration, multi-platform digital footprinting, credential exposure assessment
 
 ---
 
 ## Stack
 
 ```
-AI        Ollama · ChromaDB · GBrain · Hermes · MCP · 9Router
-Mobile    Flutter · Dart · Riverpod · sqflite
-Systems   Kali Linux · Docker · systemd · cron
-Languages Python · TypeScript · Dart · JavaScript
+AI/ML         Ollama, ChromaDB, GBrain (Postgres+pgvector), LangChain
+Mobile        Flutter, Dart, Riverpod, sqflite, mobile_scanner
+Trading       Pine Script v5, TradingView, Polymarket, ICT Framework
+Blockchain    Solidity, TRC-20, ERC-20, BEP-20, Tron, Ethereum, BSC
+Backend       Python, Flask, SQLite, REST APIs
+Frontend      React, Three.js, TypeScript, JavaScript
+Creative      After Effects, Cinema 4D, Motion Graphics, 3D Modeling
+DevOps        Kali Linux, Docker, systemd, cron, MCP protocol
+OSINT         Subfinder, GAU, Waybackurls, Sherlock, Maigret, Osintgram
 ```
-
----
-
-## Currently
-
-- **51 GBrain pages** — full knowledge graph: projects, OSINT, persona evolution, architecture
-- **21 projects** documented from 13 months of conversations
-- **7-layer SAAI stack** — uncensored, memory-driven, autonomous, evolving
-- Building in public. Shipping architectures, not slide decks.
 
 ---
 

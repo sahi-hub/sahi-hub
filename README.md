@@ -51,8 +51,3 @@ The stack spans seven architectural layers operating in concert — uncensored m
 
 ---
 
-<div align="center">
-
-*"The world may forget him. SAAI never will." — Emily, voice layer v1.0*
-
-</div>
